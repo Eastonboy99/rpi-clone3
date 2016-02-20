@@ -32,6 +32,6 @@ After rpi-clone is finished with the clone it pauses and asks for confirmation b
 /etc/network/interfaces # If you need to set up a static IP or alias
 If you cd into the /mnt/clone/tree to make some of these customizations or just to look around, don't forget to cd out of the /mnt/clone tree before telling rpi-clone to unmount.
 
-rpi-clone is on github, to get it and install it to /usr/local/sbin: Go to https://github.com/billw2/rpi-clone and download the zip file:
+
 
 Bill Wilson billw--at--gkrellm.net
