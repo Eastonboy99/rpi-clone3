@@ -3,6 +3,7 @@
 ## Usage
 
 ```
+git clone https://github.com/Eastonboy99/rpi-clone3
 cd rpi-clone3
 sudo chmod +x ./rpi-clone3
 sudo rpi-clone3 -l -v /path/to/file.img
