@@ -1,13 +1,13 @@
-#rpi-clone3
+# rpi-clone3
 
-##Usage
+## Usage
 
-'''
+```
 cd rpi-clone3
 sudo chmod +x ./rpi-clone3
 sudo rpi-clone3 -l -v /path/to/file.img
-
-##Changes
+```
+## Changes
 This script has been modified by Agocska on [pastebin](http://pastebin.com/JUSawD2m). Their changes made it possible to save the backup to a .img file.
 
 I fixed this script to allow it to work on jessie. Some of the commands changed and I changed the commands in the script to work on jessie.
